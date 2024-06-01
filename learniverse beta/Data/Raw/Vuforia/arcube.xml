@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="dino_card" size="10.000000 10.000000" />
+    <ImageTarget name="Robot_Card" size="1.000000 1.000000" />
+    <ImageTarget name="Mars_Card" size="1.000000 1.200000" />
+    <ImageTarget name="solar_system_card" size="10.000000 10.000000" />
+    <ImageTarget name="jupiter" size="10.000000 10.000000" />
+    <ImageTarget name="Earth_card" size="10.000000 10.000000" />
+  </Tracking>
+</QCARConfig>
